@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaganTuncer
 - I am a freshman CS student at Bilkent University
--
+
 
 <!---
 CaganTuncer/CaganTuncer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
