@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CaganTuncer
-- I am a sophomore CS student at Bilkent University
+- I am a junior CS student at Bilkent University
 
 
 <!---
